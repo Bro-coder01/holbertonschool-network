@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Displays listening sockets with their owning processes.
+# Displays listening ports and their program names
+
 netstat -tulpn
