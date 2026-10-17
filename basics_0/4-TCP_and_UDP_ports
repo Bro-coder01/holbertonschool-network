@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Displays listening ports and their program names
 
-netstat -tulpn
+netstat -lp
